@@ -1,0 +1,28 @@
+{
+  "name": "QM Studio",
+  "short_name": "QM Studio",
+  "start_url": "https://script.google.com/macros/s/AKfycby-2ve-kNv2U2sQ7ThwelnCFWYmrbxpWEXP2ddMaQZpyh69zN8yikaU5xd5rO5dMAuZCQ/exec",
+  "display": "standalone",
+  "background_color": "#F4F2EE",
+  "theme_color": "#F4F2EE",
+  "icons": [
+    {
+      "src": "https://drive.google.com/file/d/1NxGoH-zj1D13d8GslRvR4BNMYKscmdB5/view?usp=drive_link",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://drive.google.com/file/d/1viLzq8i3yxzeKI--EnN5XLisDLAVRu_a/view?usp=drive_link",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://drive.google.com/file/d/1WOiQnzPRtIZlcLJD4dKOqHY7eYOeMAqW/view?usp=drive_link",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
