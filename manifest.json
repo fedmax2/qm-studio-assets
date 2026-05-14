@@ -7,19 +7,19 @@
   "theme_color": "#F4F2EE",
   "icons": [
     {
-      "src": "https://github.com/fedmax2/qm-studio-assets/blob/main/QM_white%20bkg_192.png?raw=true",
+      "src": "https://fedmax2.github.io/qm-studio-assets/QM_white_bkg_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://github.com/fedmax2/qm-studio-assets/blob/main/QM_white%20bkg_512.png?raw=true",
+      "src": "https://fedmax2.github.io/qm-studio-assets/QM_white_bkg_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://github.com/fedmax2/qm-studio-assets/blob/main/QM_white%20bkg_maskable_icon_x512.png?raw=true",
+      "src": "https://fedmax2.github.io/qm-studio-assets/QM_white_bkg_maskable_icon_x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
